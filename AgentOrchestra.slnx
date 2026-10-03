@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AgentOrchestra.App/AgentOrchestra.App.csproj" />
+  </Folder>
+</Solution>
